@@ -1,0 +1,11 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CreateModulesInDecisions.zip
+/.vs/decisions-mod-skeleton/v16/.suo
+/.vs/CreateModulesInDecisions/v16/Server/sqlite3
+/.vs
+/CreateModulesInDecisions/bin/Debug
+/CreateModulesInDecisions/obj/Debug
+/CreateModulesInDecisions/obj/Release
